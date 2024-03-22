@@ -83,11 +83,16 @@ Bookings are due to arrive between July 01, 2015 and August 31, 2017.
 ## Outcomes
 
 > Percentage of cancelled bookings overall is ~37%
+![percentage_booking_per_status](https://github.com/satyatejaravuri/Hotel_cancellation_prediction/assets/31037816/f0c48f51-1dd8-409d-8614-701ea206c99a)
+
+
 
 > Features correlated with cancellations
 
 * Lead Time
 * Previous Cancellations
+
+![corr_coefficient](https://github.com/satyatejaravuri/Hotel_cancellation_prediction/assets/31037816/c44d003a-ad51-4f8d-a189-63931f976823)
 
 > Lead time booking per status
 
@@ -98,6 +103,8 @@ Days between booking and arrival
 * More time for unexpected events
 
 
+![lead_time_booking_per_status](https://github.com/satyatejaravuri/Hotel_cancellation_prediction/assets/31037816/4a28c938-8cc1-4724-84e6-cc29bf612fd7)
+
 
 
 > Special Requests
@@ -105,6 +112,8 @@ Days between booking and arrival
  * Engagement
  * Communication between customer and hotel
 
+
+![total_special_requests](https://github.com/satyatejaravuri/Hotel_cancellation_prediction/assets/31037816/9b880f80-1ac9-4eee-853d-c0afacd99539)
 
 
 
@@ -116,10 +125,17 @@ Days between booking and arrival
   * Limit customer hotel opinion
 
 
+![parking_space_required](https://github.com/satyatejaravuri/Hotel_cancellation_prediction/assets/31037816/19aaf593-7f81-4ec2-b486-f88ebd51efb3)
+
+
 
 > Deposit Type
   * Customer who pay a non-refundable deposit have a much higher percentage of cancelled reservations
   * Transient groups who use a travel agent
+
+ 
+![deposit_type_bookings_cancelled](https://github.com/satyatejaravuri/Hotel_cancellation_prediction/assets/31037816/4b870f56-c402-447a-93b9-8c32629c1bbe)
+
   * Hotel deposit policies
 
 
